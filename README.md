@@ -1,2 +1,2 @@
 # Zipper
-Making a micromouse
+Making a line following micromouse
